@@ -1,14 +1,21 @@
 export const landingMarkup = `
 <nav>
-  <div class="nav-name">GRACING VENTURES</div>
+  <a class="nav-brand" href="#top">
+    <img src="/__l5e/assets-v1/2e9adf1f-e59f-427c-8701-404f42ddad45/gv-logo.png" alt="Gracing Ventures logo">
+    <span class="nav-wordmark">
+      <span class="nav-name">Gracing Ventures</span>
+      <span class="nav-tagline">Facility Asset Management</span>
+    </span>
+  </a>
   <div class="nav-links">
     <a href="#problem">The Problem</a>
-    <a href="#offer">The Offer</a>
-    <a href="#proof">Proof</a>
-    <a href="#about">About</a>
-    <a href="#contact">Contact</a>
+    <a href="#offer">Services</a>
+    <a href="#proof">Case Study</a>
+    <a href="#about">Company</a>
+    <a class="nav-cta" href="#contact">Contact</a>
   </div>
 </nav>
+
 
 <div class="contact-rail">
   <a class="wa-primary" href="https://wa.me/255748808697?text=Hello%20Gracing%20Ventures%2C%20I%27d%20like%20to%20book%20a%20Facility%20Risk%20Audit." target="_blank" rel="noopener" aria-label="Book a Facility Risk Audit on WhatsApp" title="Book a Facility Risk Audit">
