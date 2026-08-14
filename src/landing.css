@@ -1153,3 +1153,19 @@ footer a {
     grid-template-columns: 1fr !important;
   }
 }
+
+/* Contrast fixes on navy sections */
+.hero .btn-primary {
+  background: var(--gv-white);
+  color: var(--gv-navy);
+  border-color: var(--gv-white);
+}
+
+.hero .btn-primary:hover {
+  background: #e8f0f8;
+  color: var(--gv-navy-deep);
+}
+
+footer {
+  padding-right: 92px;
+}
