@@ -30,29 +30,26 @@ export const landingMarkup = `
 </div>
 
 <!-- HERO -->
-<header class="hero">
+<header class="hero" id="top">
   <div class="hero-grid"></div>
-  <div class="hero-flex">
-    <div class="hero-text">
-      <div class="hero-eyebrow">Gracing Ventures · Facility Asset Management · Tanzania</div>
-      <h1>Your building is already<br>paying <em>a maintenance tax</em><br>nobody put on the books.</h1>
-      <p class="hero-sub">Failed assets. Missing records. Repairs that could've been prevented. We turn all of it into one tracked, accountable system — engineer-built, standards-aligned, live from day one.</p>
-      <div class="hero-cta-row">
-        <a href="https://wa.me/255748808697?text=Hello%20Gracing%20Ventures%2C%20I%27d%20like%20to%20book%20a%20Facility%20Risk%20Audit." target="_blank" rel="noopener" class="btn btn-primary">Book a Free Facility Risk Audit →</a>
-        <a href="#proof" class="btn btn-outline">See the Live System</a>
-      </div>
-      <div class="hero-reassure mono">The Facility Risk Audit is yours to keep — even if you never work with us again.</div>
+  <div class="hero-inner">
+    <div class="hero-eyebrow">Gracing Ventures · Dar es Salaam, Tanzania</div>
+    <h1>Facility asset management for buildings that cannot afford to <em>guess.</em></h1>
+    <p class="hero-sub">Gracing Ventures builds and operates the asset register, preventive maintenance programme and compliance trail behind commercial and critical facilities — engineer-led, standards-aligned, live from day one.</p>
+    <div class="hero-cta-row">
+      <a href="https://wa.me/255748808697?text=Hello%20Gracing%20Ventures%2C%20I%27d%20like%20to%20book%20a%20Facility%20Risk%20Audit." target="_blank" rel="noopener" class="btn btn-primary">Request a Facility Risk Audit</a>
+      <a href="#proof" class="btn btn-outline">View Case Study</a>
     </div>
-    <div class="hero-photo-wrap">
-      <div class="hero-photo-frame">
-        <img src="/__l5e/assets-v1/9c0ce840-bbdc-40e7-a5c6-0b4880ea5e70/grace-photo.jpg" alt="Grace Sambali, Founder and Lead Engineer, Gracing Ventures">
-        <div class="hero-photo-tag"><span>G. SAMBALI · FOUNDER</span><span>PEng(T)</span></div>
-      </div>
+    <div class="hero-reassure mono">The Facility Risk Audit is complimentary — and yours to keep.</div>
+    <div class="hero-facts">
+      <div><div class="hero-fact-num">87</div><div class="hero-fact-label">Assets Under Live Management</div></div>
+      <div><div class="hero-fact-num">17</div><div class="hero-fact-label">Floors Under Management</div></div>
+      <div><div class="hero-fact-num">7</div><div class="hero-fact-label">MEP Systems Coordinated</div></div>
+      <div><div class="hero-fact-num">6+</div><div class="hero-fact-label">Years MEP / BIM Practice</div></div>
     </div>
   </div>
-  <div class="scroll-cue"><div class="scroll-line"></div>Scroll</div>
-  <div class="hero-coord">DAR ES SALAAM, TANZANIA<br>6°09'S 39°11'E</div>
 </header>
+
 
 <!-- PROBLEM -->
 <section class="problem" id="problem">
