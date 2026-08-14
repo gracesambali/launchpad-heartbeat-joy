@@ -3,9 +3,9 @@ import { useEffect } from "react";
 import { landingMarkup } from "./landing-markup";
 import "../landing.css";
 
-const title = "Grace Sambali — Facility Asset Management, Gracing Ventures";
+const title = "Gracing Ventures — Facility Asset Management in Tanzania";
 const description =
-  "Facility Asset Management for commercial and critical facilities in Tanzania — asset registers, preventive maintenance, and compliance, built by a registered Electrical Engineer (PEng-T).";
+  "Gracing Ventures builds asset registers, preventive maintenance and compliance systems for commercial and critical facilities in Tanzania. Engineer-led, standards-aligned, live from day one.";
 
 export const Route = createFileRoute("/")({
   head: () => ({
