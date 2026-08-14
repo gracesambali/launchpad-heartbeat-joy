@@ -255,10 +255,10 @@ export const landingMarkup = `
 <section class="about" id="about">
   <div class="section-inner about-grid">
     <div class="reveal">
-      <div class="eyebrow">About</div>
-      <p class="about-lede">An engineering firm built around the part of a building's life most engineers walk away from.</p>
+      <div class="eyebrow">The Company</div>
+      <p class="about-lede">An engineering practice built around the part of a building's life most engineers walk away from.</p>
       <div class="about-body">
-        <p>Gracing Ventures is a Tanzanian facility asset management practice founded and led by Grace Sambali, a registered Electrical Engineer (PEng-T) with six years coordinating MEP systems through BIM for EPC contractors and property owners across the country.</p><p>Most engineering ends at handover. We extend the same discipline — standards, documentation, cross-discipline coordination — into a building's entire working life, and we stay accountable for it.</p>
+        <p>Gracing Ventures is a Tanzanian facility asset management practice serving commercial and critical facilities from Dar es Salaam. The firm is led by Grace Sambali, a registered Electrical Engineer (PEng-T) with six years coordinating MEP systems through BIM for EPC contractors and property owners across the country.</p><p>Most engineering ends at handover. We extend the same discipline — standards, documentation, cross-discipline coordination — into a building's entire working life, and we remain accountable for it.</p>
       </div>
       <div class="about-stats" style="grid-template-columns: repeat(3, 1fr)">
         <div><div class="stat-num">6+</div><div class="stat-label">Years in MEP / BIM</div></div>
@@ -266,11 +266,20 @@ export const landingMarkup = `
         <div><div class="stat-num">87</div><div class="stat-label">Assets Under Live Management</div></div>
       </div>
     </div>
-    <div class="about-card reg-marks reveal">
-      <span class="rm-tr"></span><span class="rm-br"></span>
-      <div class="about-card-label">How We Work</div>
-      <div class="about-card-quote">"Standards compliant, properly documented, coordinated across every discipline — whether it's a drawing set or a live asset register."</div>
+    <div class="reveal">
+      <div class="founder-card">
+        <img src="/__l5e/assets-v1/9c0ce840-bbdc-40e7-a5c6-0b4880ea5e70/grace-photo.jpg" alt="Grace Sambali, Founder and Lead Engineer at Gracing Ventures">
+        <div class="founder-meta">
+          <div class="founder-name">Grace Sambali</div>
+          <div class="founder-role">Founder &amp; Lead Engineer · PEng(T)</div>
+        </div>
+      </div>
+      <div class="about-card">
+        <div class="about-card-label">How We Work</div>
+        <div class="about-card-quote">"Standards compliant, properly documented, coordinated across every discipline — whether it's a drawing set or a live asset register."</div>
+      </div>
     </div>
+
   </div>
 </section>
 
