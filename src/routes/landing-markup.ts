@@ -21,7 +21,7 @@ export const landingMarkup = `
   <a class="wa-primary" href="https://wa.me/255748808697?text=Hello%20Gracing%20Ventures%2C%20I%27d%20like%20to%20book%20a%20Facility%20Risk%20Audit." target="_blank" rel="noopener" aria-label="Book a Facility Risk Audit on WhatsApp" title="Book a Facility Risk Audit">
     <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12.04 2C6.58 2 2.13 6.45 2.13 11.91c0 1.75.46 3.45 1.32 4.95L2.05 22l5.25-1.38a9.9 9.9 0 0 0 4.74 1.21h.01c5.46 0 9.91-4.45 9.91-9.91C21.96 6.45 17.5 2 12.04 2zm5.78 14.13c-.24.68-1.4 1.31-1.93 1.39-.5.08-1.13.11-1.83-.11-.42-.14-.96-.3-1.65-.6-2.9-1.25-4.8-4.15-4.94-4.34-.14-.19-1.18-1.57-1.18-3 0-1.42.75-2.12 1.01-2.41.26-.28.58-.35.77-.35.19 0 .39 0 .56.01.18.01.42-.07.65.5.24.58.82 1.99.89 2.14.07.14.12.31.02.5-.09.19-.14.31-.28.48-.14.16-.29.36-.42.49-.14.14-.28.28-.12.56.16.28.71 1.18 1.53 1.91 1.05.94 1.94 1.24 2.22 1.38.28.14.44.12.6-.07.16-.19.68-.79.87-1.06.19-.28.37-.23.62-.14.26.09 1.62.77 1.9.91.28.14.46.21.53.32.07.12.07.65-.17 1.33z"/></svg>
   </a>
-  <a href="mailto:sambaligrace@gmail.com" aria-label="Email Gracing Ventures" title="Email">
+  <a href="mailto:grace@gracingventures.com" aria-label="Email Gracing Ventures" title="Email">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-10 6L2 7"/></svg>
   </a>
   <a href="https://www.linkedin.com/in/grace-sambali-031a5ba9" target="_blank" rel="noopener" aria-label="Gracing Ventures on LinkedIn" title="LinkedIn">
@@ -157,10 +157,10 @@ export const landingMarkup = `
   <div class="section-inner">
     <div class="eyebrow reveal">Proof, Not Promises</div>
     <h2 class="section-title reveal">What changed at Zanzibar One Tower</h2>
-    <p class="problem-intro reveal">Our first client engagement — a 17-floor commercial tower, now running on the full Gracing Ventures system.</p>
+    <p class="problem-intro reveal">Our own proving ground — a 17-floor commercial tower, running on the full Gracing Ventures system before it ever went to a client.</p>
 
     <div class="proof-case reveal">
-      <div class="proof-meta">Client Engagement · Custom-Built, Node.js / Airtable <span class="proof-status">Live</span></div>
+      <div class="proof-meta">Live Pilot Deployment · Custom-Built, Node.js / Supabase <span class="proof-status">Live</span></div>
       <div class="proof-title">From no formal register to a fully tracked facility</div>
 
       <div class="proof-outcomes">
@@ -296,7 +296,7 @@ export const landingMarkup = `
       </div>
       <div>
         <div class="contact-item-label">Email</div>
-        <div class="contact-item-value"><a href="mailto:sambaligrace@gmail.com">sambaligrace@gmail.com</a></div>
+        <div class="contact-item-value"><a href="mailto:grace@gracingventures.com">grace@gracingventures.com</a></div>
       </div>
       <div>
         <div class="contact-item-label">LinkedIn</div>
@@ -309,7 +309,7 @@ export const landingMarkup = `
     </div>
     <div class="contact-cta-row reveal">
       <a href="https://wa.me/255748808697?text=Hello%20Gracing%20Ventures%2C%20I%27d%20like%20to%20book%20a%20Facility%20Risk%20Audit." target="_blank" rel="noopener" class="btn btn-primary">Book a Free Facility Risk Audit →</a>
-      <a href="mailto:sambaligrace@gmail.com?subject=Project%20Inquiry" class="btn btn-outline">Send a Project Brief</a>
+      <a href="mailto:grace@gracingventures.com?subject=Project%20Inquiry" class="btn btn-outline">Send a Project Brief</a>
     </div>
     <p class="serious-note reveal">Prefer email? Same conversation, same next step — just slower to schedule.</p>
   </div>
