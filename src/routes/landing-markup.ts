@@ -36,6 +36,13 @@ export const landingMarkup = `
     <div class="hero-eyebrow">Gracing Ventures · Dar es Salaam, Tanzania</div>
     <h1>Facility asset management for buildings that cannot afford to <em>guess.</em></h1>
     <p class="hero-sub">Gracing Ventures builds and operates the asset register, preventive maintenance programme and compliance trail behind commercial and critical facilities — engineer-led, standards-aligned, live from day one.</p>
+    <a href="https://www.youtube.com/watch?v=lE6Gy_fVkCU" target="_blank" rel="noopener" class="hero-vsl" aria-label="Watch: Introducing Gracing Ventures Facility Asset Management">
+      <img src="/vsl-thumbnail.png" alt="Grace Sambali introducing Gracing Ventures Facility Asset Management" class="hero-vsl-thumb" width="1280" height="720">
+      <span class="hero-vsl-play" aria-hidden="true">
+        <svg viewBox="0 0 24 24" fill="currentColor" width="22" height="22"><path d="M8 5v14l11-7z"/></svg>
+      </span>
+      <span class="hero-vsl-caption">Watch: Introducing Facility Asset Management</span>
+    </a>
     <div class="hero-cta-row">
       <a href="https://wa.me/255748808697?text=Hello%20Gracing%20Ventures%2C%20I%27d%20like%20to%20book%20a%20Facility%20Risk%20Audit." target="_blank" rel="noopener" class="btn btn-primary">Request a Facility Risk Audit</a>
       <a href="#proof" class="btn btn-outline">View Case Study</a>
